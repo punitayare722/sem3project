@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "345155961841",
+    "project_id": "arcore-5b850",
+    "storage_bucket": "arcore-5b850.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:345155961841:android:0ac0be3da3d0f3a593fa50",
+        "android_client_info": {
+          "package_name": "com.punitayare.arcore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvXcssHHeplpEmQ_6BFhImgXHrIn53eho"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
